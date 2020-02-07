@@ -2,7 +2,7 @@
 A novel deep network for monocular depth estimation infusing of human depth perception knowledge. We are now tidying up the code and will upload the entire project soon, thanks for waiting!
  
 ![image](images/000522.png)
-experiment results update!
+Experiment results update!
 
 ![image](images/image2.jpg)
 The results in red was a new comparison with the latest supervised method from paper "Digging into Self-Supervised Monocular Depth Prediction".
